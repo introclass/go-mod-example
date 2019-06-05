@@ -1,0 +1,9 @@
+github.com/introclass/go_mod_example_pkg v0.0.0-20190605025602-145dfc7da673 h1:FWVmIuvbIbN+lKf1dqcEMsucRIcA5rKsdfspHAfdHwA=
+github.com/introclass/go_mod_example_pkg v0.0.0-20190605025602-145dfc7da673/go.mod h1:/v7chHD4NMEaXkvHXHOtL0syZhX4fV2acI4jpTmcr+Q=
+github.com/introclass/go_mod_example_pkg v0.0.0-20190605032620-5441b8a25cd3 h1:tXHf6waF2iGqrOOV2YftirgQ3jWYJ9pCwoMDHn8QuKY=
+github.com/introclass/go_mod_example_pkg v0.0.0-20190605032620-5441b8a25cd3/go.mod h1:/v7chHD4NMEaXkvHXHOtL0syZhX4fV2acI4jpTmcr+Q=
+github.com/introclass/go_mod_example_pkg v0.0.0-20190605035910-0b66206f7925 h1:beZlqHn4J0vvkY41mA9mHf0H+ZUtInxi1CG/PTvhqIo=
+github.com/introclass/go_mod_example_pkg v0.0.0-20190605035910-0b66206f7925/go.mod h1:/v7chHD4NMEaXkvHXHOtL0syZhX4fV2acI4jpTmcr+Q=
+github.com/introclass/go_mod_example_pkg/v3 v3.0.1 h1:LmYL0swEbkS+mDpXbGWviP2RuZSlqahYtyLGuPpz1UQ=
+github.com/introclass/go_mod_example_pkg/v3 v3.0.1/go.mod h1:EajQoIGB3m3TUQ0scU2Xeld2bYG8NRRhlZlFAHup1+U=
+github.com/lijiaocn/golib v2.0.1+incompatible/go.mod h1:BUO0RF2eDlol519GuXLQtlku8pdUim0h+f6wvX/AsNk=
